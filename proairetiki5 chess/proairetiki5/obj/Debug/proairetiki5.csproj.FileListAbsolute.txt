@@ -1,0 +1,10 @@
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\bin\Debug\proairetiki5.exe.config
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\bin\Debug\proairetiki5.exe
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\bin\Debug\proairetiki5.pdb
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.csprojAssemblyReference.cache
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.Form1.resources
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.Properties.Resources.resources
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.csproj.GenerateResource.cache
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.exe
+C:\Users\nikos\Desktop\proairetiki5\proairetiki5\obj\Debug\proairetiki5.pdb
