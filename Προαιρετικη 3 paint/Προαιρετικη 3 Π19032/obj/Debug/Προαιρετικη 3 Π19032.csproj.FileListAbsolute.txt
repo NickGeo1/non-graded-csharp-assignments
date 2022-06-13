@@ -1,0 +1,10 @@
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\bin\Debug\Προαιρετικη 3 Π19032.exe.config
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\bin\Debug\Προαιρετικη 3 Π19032.exe
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\bin\Debug\Προαιρετικη 3 Π19032.pdb
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη 3 Π19032.csprojAssemblyReference.cache
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη_3_Π19032.Form1.resources
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη_3_Π19032.Properties.Resources.resources
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη 3 Π19032.csproj.GenerateResource.cache
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη 3 Π19032.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη 3 Π19032.exe
+C:\Users\nikos\Desktop\Προαιρετικη 3 Π19032\Προαιρετικη 3 Π19032\obj\Debug\Προαιρετικη 3 Π19032.pdb

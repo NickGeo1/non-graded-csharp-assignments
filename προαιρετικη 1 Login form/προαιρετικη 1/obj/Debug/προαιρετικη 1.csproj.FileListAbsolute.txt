@@ -1,0 +1,11 @@
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\bin\Debug\προαιρετικη 1.exe.config
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\bin\Debug\προαιρετικη 1.exe
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\bin\Debug\προαιρετικη 1.pdb
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη 1.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη_1.Form1.resources
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη_1.Properties.Resources.resources
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη 1.csproj.GenerateResource.cache
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη 1.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη 1.exe
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη 1.pdb
+C:\Users\nikos\source\repos\προαιρετικη 1\προαιρετικη 1\obj\Debug\προαιρετικη_1.Form2.resources

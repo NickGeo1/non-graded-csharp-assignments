@@ -1,0 +1,24 @@
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.csprojAssemblyReference.cache
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Student_Management.resources
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Properties.Resources.resources
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.csproj.GenerateResource.cache
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\bin\Debug\Προαιρετικη 2 Π19032.exe.config
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\bin\Debug\Προαιρετικη 2 Π19032.exe
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\bin\Debug\Προαιρετικη 2 Π19032.pdb
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.exe
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.pdb
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Student_Details.resources
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\bin\Debug\Προαιρετικη 2 Π19032.exe.config
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\bin\Debug\Προαιρετικη 2 Π19032.exe
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\bin\Debug\Προαιρετικη 2 Π19032.pdb
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Add_student.resources
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Student_Management.resources
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Properties.Resources.resources
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Student_Details.resources
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.exe
+C:\Users\user\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη 2 Π19032.pdb
+C:\Users\nikos\Desktop\Προαιρετικη 2 Π19032\Προαιρετικη 2 Π19032\obj\Debug\Προαιρετικη_2_Π19032.Add_student.resources

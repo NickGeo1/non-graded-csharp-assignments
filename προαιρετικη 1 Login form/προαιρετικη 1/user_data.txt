@@ -1,0 +1,5 @@
+Nikolaos, egg123, 21, nikolas@anything.com, 34567, alkiviadou 23, Computer Science
+Dimitris, sofa456, 20, jim@anything.com, 99002, aristeas 13, Maritime studies
+Georgios, food999, 22, george@anything.com, 95672, zakinthou 153, Maritime studies
+Markos, funny546, 19, markos100@anything.com, 38472, limnou 40, Industrial Administration and Technology
+Aleksandra, stardust200, 22, aleksia@anything.com, 19227, Dimitriadoy 28, Economic Studies
